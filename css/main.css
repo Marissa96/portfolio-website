@@ -22,12 +22,18 @@ html {
 
 h1 {
   text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 p {
   text-align: center;
+  font-family: 'Coming Soon', cursive;
 }
 
+a {
+  text-decoration: none;
+  font-family: 'Coming Soon', cursive;
+}
 .icons {
   width: 50px;
 }
