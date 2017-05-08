@@ -23,6 +23,7 @@ html {
 h1 {
   text-align: center;
   font-family: 'PT Sans Narrow', sans-serif;
+  color: #a1cd3b;
 }
 
 p {
@@ -32,6 +33,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #b5cc75;
   font-family: 'Coming Soon', cursive;
 }
 .icons {
